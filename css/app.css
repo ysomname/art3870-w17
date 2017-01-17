@@ -1,24 +1,25 @@
-/* this is my stylesheet for the homepage */
 
-* {outline: 1px solid green;}
-
-/*header styles*/
+/*  this is my stylesheet for the homepage */
+/* table of contents */
+/* header styles */
+/* main body styles */
+/* footer styles */
 
 h1, h6 {font-family: cursive;}
 
-
-nav{}
-  header h1 {color:red; background-color: green;}
-
-  nav{
-
-  }
-
-  footer {}
-
-
-/*main body styles */
+header {}
+header h1 {color:red; background-color: yellow;}
+nav {}
+footer {}
 
 
 
-/*footer styles */
+
+
+* {outline: 1px solid red;}
+
+/* header styles */
+
+/* main body styles */
+
+/* footer styles */
