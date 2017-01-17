@@ -1,0 +1,42 @@
+/*my css styles*/
+.ltgreen{background-color: honeydew;}
+.ltblue{background-color: lightcyan;}
+.antique{background-color: antiquewhite;}
+.pink{background-color: pink;}
+.lav{background-color: lavender;}
+.ltyellow{background-color: lightyellow;}
+
+
+h1{
+  font-family: "lucida Bright", Georgia, serif;
+  font-weight: bold;
+}
+
+
+
+body{
+  font-family: "lucida Bright", Georgia, serif;
+}
+
+.tall_332{
+
+
+}
+
+.tall_85{
+
+  padding: 5px;
+
+}
+
+.tall_405{
+
+  padding: 10px;
+
+}
+
+#footer {
+  clear: left;
+  bottom:0;
+  width:100%;
+	}
