@@ -56,6 +56,12 @@ a:hover:after {
   background-color: orange;
 }
 
+iframe {
+  width: 600px;
+  height: 450px;
+  border: 0;
+}
+
 
 h1 {
   font-family: 'Raleway', sans-serif;
